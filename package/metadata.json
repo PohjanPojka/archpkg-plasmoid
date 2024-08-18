@@ -9,10 +9,11 @@
         "Category": "System Information",
         "Description": "A widget to display recent Arch package updates",
         "Icon": "upload-later",
-        "Id": "com.eemelim.archpkg",
+        "Id": "com.github.pohjanpojka.archpkg",
         "Name": "Arch Package update widget",
         "Version": "1.0.0",
-        "Website": "https://github.com"
+        "Licence": "MIT",
+        "Website": "https://github.com/PohjanPojka/archpkg-plasmoid"
     },
     "X-Plasma-API": "declarativeappletscript",
     "X-Plasma-API-Minimum-Version": "6",
