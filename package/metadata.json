@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "contact@eemelimyllymaki.fi",
+                "Name": "Eemeli Myllymäki"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "A widget to display recent Arch package updates",
+        "Icon": "upload-later",
+        "Id": "com.eemelim.archpkg",
+        "Name": "Arch Package update widget",
+        "Version": "1.0.0",
+        "Website": "https://github.com"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-API-Minimum-Version": "6",
+    "KPackageStructure": "Plasma/Applet"
+}
